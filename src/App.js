@@ -118,11 +118,11 @@ function App() {
     <div>
       <Navbar bg="light" expand="lg">
         <Container>
-          <Navbar.Brand href="#home">Pahlawan Indonesia</Navbar.Brand>
+          <Navbar.Brand href="https://tubes-rizkynugraha-api.vercel.app/">Pahlawan Indonesia</Navbar.Brand>
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
           <Navbar.Collapse id="basic-navbar-nav">
             <Nav className="mr-auto">
-              <Nav.Link href="#home">Home</Nav.Link>
+              <Nav.Link href="https://tubes-rizkynugraha-api.vercel.app/">Home</Nav.Link>
               </Nav>
             <Nav className="ml-auto">
               <Nav.Link href="https://github.com/lordacil">Profile</Nav.Link>
